@@ -1,0 +1,33 @@
+/* font-family: 'Quicksand', sans-serif; */
+
+@font-face {
+  font-family: Aileron ;
+  src: url(../assets/fonts/Aileron-Black.otf);
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: Aileron ;
+  src: url(../assets/fonts/Aileron-Bold.otf);
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: Aileron ;
+  src: url(../assets/fonts/Aileron-Regular.otf);
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: Aileron ;
+  src: url(../assets/fonts/Aileron-Light.otf);
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: Aileron ;
+  src: url(../assets/fonts/Aileron-SemiBoldItalic.otf);
+  font-weight: 600;
+  font-style: italic;
+}
+
